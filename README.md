@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate with companies that have international customers and new technologies.
 - 💬 Ask me about development software process optimization
 - 📫 How to reach me: https://www.linkedin.com/in/mariodeveloper/
-- 😄 Pronouns: meticulous haha
 - ⚡ Fun fact: Even being a software developer I am a great dancer
 
 
