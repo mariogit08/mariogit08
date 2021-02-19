@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Kurier Technologia Brazil
 - 🌱 I’m currently improving my skills in how to deal with legacy systems.
-- 👯 I’m looking to collaborate with companies that have international customers and new technologies.
+- 👯 I’m looking to collaborate with innovation in several distinct areas.
 - 💬 Ask me about development software process optimization
 - 📫 How to reach me: https://www.linkedin.com/in/mariodeveloper/
 - ⚡ Fun fact: Even being a software developer I am a great dancer
