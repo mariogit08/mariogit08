@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Ben Fatto Technologia Brazil
-- 🌱 I’m currently improving my skills in how to deal with legacy systems.
+- 🔭 I’m currently working on Thoughtworks Brazil
+- 🌱 I’m currently improving my skills in microservices and azure.
 - 👯 I’m looking to collaborate with innovation in several distinct areas.
 - 💬 Ask me about development software process optimization
 - 📫 How to reach me: https://www.linkedin.com/in/mariodeveloper/
