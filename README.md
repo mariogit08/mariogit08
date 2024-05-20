@@ -1,8 +1,6 @@
 # Mário Chaves
 .Net Engineer
 
-Email: [mario.chaves@live.com](mailto:youremail@example.com)  
-Phone: +5581995252290  
 LinkedIn: [linkedin.com/in/mariodeveloper](https://www.linkedin.com/in/mariodeveloper)
 
 ## About
