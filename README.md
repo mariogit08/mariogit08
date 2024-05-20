@@ -1,45 +1,40 @@
-### Hi there 👋
+# Mário Chaves
+.Net Engineer
 
-- 🔭 I’m currently working on Thoughtworks Brazil
-- 🌱 I’m currently improving my skills in microservices and azure.
-- 👯 I’m looking to collaborate with innovation in several distinct areas.
-- 💬 Ask me about development software process optimization
-- 📫 How to reach me: https://www.linkedin.com/in/mariodeveloper/
-- ⚡ Fun fact: Even being a software developer I am a great dancer
+Email: [mario.chaves@live.com](mailto:youremail@example.com)  
+Phone: +5581995252290  
+LinkedIn: [linkedin.com/in/mariodeveloper](https://www.linkedin.com/in/mariodeveloper)
 
+## About
+Seasoned software engineer specializing in distributed systems, Azure, and .Net Core. Fluent in English and Portuguese, with expertise in agile methodologies and a track record of delivering impactful solutions.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=mariogit08&theme=highcontrast&show_icons=true&count_private=true)
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mariogit08)
-
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=mariogit08&repo=LogLoader)](https://github.com/mariogit08/LogLoader)
-
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=mariogit08&repo=TDD_Training_Samples)](https://github.com/mariogit08/TDD_Training_Samples)
-
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=mariogit08&repo=hexagonal-architecture-template)](https://github.com/mariogit08/hexagonal-architecture-template)
-
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=mariogit08&repo=DapperCodeGenerator)](https://github.com/mariogit08/DapperCodeGenerator)
+## Portfolio
+### Case Studies
+- [Crawler Gympass Token](https://github.com/mariogit08/crawler-gympass-token): A Python project for developing spiders for web crawling. It focuses on extracting data from Gympass using web scraping techniques.
+- [LogLoader](https://github.com/mariogit08/LogLoader): A CRUD application implementing engineering software concepts to enhance software quality and maintainability.
+- [Hexagonal Architecture Template](https://github.com/mariogit08/hexagonal-architecture-template): A template for creating applications using hexagonal architecture. It includes the main layers and incorporates Domain-Driven Design (DDD) concepts, as well as Ports and Adapters, using Visual Studio SDK.
+- [User Manager](https://github.com/mariogit08/user-manager): A Vue.js project providing a boilerplate for front-end applications, created using Ant Design Vue Pro.
+- [Spreadsheet Voice Assistant](https://github.com/mariogit08/spreadsheet-voice-assistant): A project integrating voice commands to interact with spreadsheets, enhancing user experience and productivity by allowing voice-activated operations.
+- [TDD Training Samples](https://github.com/mariogit08/TDD_Training_Samples): A collection of simple examples demonstrating the Test-Driven Development (TDD) technique to aid in learning and practicing TDD.
+- [Dapper Code Generator](https://github.com/mariogit08/DapperCodeGenerator): A C# code generator for creating database models and CRUD operations using Dapper, simplifying the interaction with databases.
 
 
-**Languages and Tools:**  
+## My Skills
+### Technical Skills
+- Distributed Systems
+- Azure
+- .Net Core
+- Microservices
+- Messaging (e.g., RabbitMQ)
+- MongoDB
+- Test-Driven Development (TDD)
+- Domain-Driven Design (DDD)
+- Clean Architecture
+- Git
+- Dapper
+- Entity Framework
+- SOAP & RESTful Web Services
+- Microsoft SQL Server (MS SQL)
+- Continuous Integration/Continuous Deployment (CI/CD) pipelines
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/dotnet/dotnet.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/visual-studio-code.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></code>
 
-
-
-
-
-
-
-
-
-
-<!--
-**mariogit08/mariogit08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
