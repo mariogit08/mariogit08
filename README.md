@@ -14,7 +14,7 @@ Seasoned software engineer specializing in distributed systems, Azure, and .Net 
 - [LogLoader](https://github.com/mariogit08/LogLoader): A CRUD application implementing engineering software concepts to enhance software quality and maintainability.
 - [Hexagonal Architecture Template](https://github.com/mariogit08/hexagonal-architecture-template): A template for creating applications using hexagonal architecture. It includes the main layers and incorporates Domain-Driven Design (DDD) concepts, as well as Ports and Adapters, using Visual Studio SDK.
 - [User Manager](https://github.com/mariogit08/user-manager): A Vue.js project providing a boilerplate for front-end applications, created using Ant Design Vue Pro.
-- [Spreadsheet Voice Assistant](https://github.com/mariogit08/spreadsheet-voice-assistant): A project integrating voice commands to interact with spreadsheets, enhancing user experience and productivity by allowing voice-activated operations.
+- [Spreadsheet Voice Assistant](https://github.com/mariogit08/spreadsheet-voice-assistant): A project integrating voice commands to interact with spreadsheets, using Generative AI with Ollama for enhancing user experience and productivity by allowing voice-activated operations.
 - [TDD Training Samples](https://github.com/mariogit08/TDD_Training_Samples): A collection of simple examples demonstrating the Test-Driven Development (TDD) technique to aid in learning and practicing TDD.
 - [Dapper Code Generator](https://github.com/mariogit08/DapperCodeGenerator): A C# code generator for creating database models and CRUD operations using Dapper, simplifying the interaction with databases.
 
